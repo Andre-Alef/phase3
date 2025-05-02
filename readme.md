@@ -81,5 +81,4 @@ curl --location 'http://localhost:3000/orders/finish' \
 "type": "card",
 "meta": "SUCCESS_PAYMENT"
 }
-
 }'
