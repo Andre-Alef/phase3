@@ -13,6 +13,8 @@ O processo de registro e autorização de compradores é realizado via Auth0 de 
 garantir que os dados de clientes estejam separados dos dados transacionais relacionados às
 vendas dos veículos.
 
+## [Recursos](image.png)
+
 ## Como rodar a aplicação
 
 # Pre requisitos
